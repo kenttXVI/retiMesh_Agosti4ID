@@ -11,6 +11,9 @@ Approfondimenti riguardanti reti mesh - Quarta Telecomunicazioni 2025
    - Implementazione di protocolli relativi alla sicurezza:
       - IEEE 802.11s (sicurezza reti mesh di tipo wireless)
       - WPA3-Mesh (sicurezza reti mesh esclusivamente di tipo WIFI)
+      - Bluetooth Mesh (sicurezza reti mesh esclusivamente di tipo Bluetooth)
+        - Estensione di BLE (Bluetooth Low Energy) dedicata esclusivamente alle reti mesh
+          - BLE è un protocollo di comunicazione wireless a corto raggio fra dispositivi Bluetooth che permette un basso consumo di energia
       - DTLS (sicurezza per comunicazioni mesh di tipo IoT)
       - Zero-trust (architettura che fa eseguire l'autenticazione ad ogni elemento che vole entrare nella rete)
 

@@ -1,4 +1,4 @@
-# retiMesh_BT
+# Reti_Mesh_Approfondimenti
 Approfondimenti riguardanti reti mesh - Quarta Telecomunicazioni 2025
 1. **Algoritmi di Routing**
    - Routing statico - Dijkstra
